@@ -14,6 +14,11 @@ A content-based movie recommendation web application built using Python, Machine
 * Fast similarity search using Cosine Similarity
 * User-friendly movie selection dashboard
 
+* <img width="1915" height="915" alt="image" src="https://github.com/user-attachments/assets/66b57b18-0cda-4ac6-8784-935ba5ebb191" />
+<img width="1906" height="1062" alt="recommendations" src="https://github.com/user-attachments/assets/8c4d29cb-8148-4d76-b7b2-1a8e59249523" />
+
+
+
 ## Tech Stack
 
 * Python
